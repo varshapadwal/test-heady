@@ -5,3 +5,5 @@ body{ background:#f0f0f0;}
 .navbar-nav{ margin-top:17px;}
 .navbar { margin-bottom:15px;}
 .container-fluid>.navbar-header { margin-bottom:15px;}
+.navbar-toggle{ margin-top:23px; float:left; margin-right:9em;}
+
